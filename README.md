@@ -25,8 +25,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/Course-Advanced%20Cybersecurity%20Threats%20and%20Governance-blue"/>
+<img src="https://img.shields.io/badge/Course-Advanced%20Cybersecurity%20Threats%20and%20Governance-blue"/>(https://github.com/user-attachments/files/16117370/Keena.Kelebogile.Ramphago.pdf)
 </div>
 
 ## Projects
+
 
