@@ -1,33 +1,28 @@
 # Hello, I'm Keena
 <a href="https://linkedin.com/in/keena-r-590b2716a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a passionate student diving deep into the world of cybersecurity. This repository serves as a documented record of my exploration, growth, and hands-on projects in this dynamic field.As a student, I'm dedicated to mastering foundational principles and advanced techniques in cybersecurity, ranging from network security and ethical hacking to cryptography and beyond. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+This repository documents my journey into cybersecurity, showcasing my learning progress, projects, and insights gained along the way. From foundational concepts to advanced techniques, I aim to build a comprehensive portfolio that reflects my growth and proficiency in cybersecurity. Join me as I explore various domains such as network security, ethical hacking, cryptography, and more, while contributing to a safer digital environment through continuous learning and practical application.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |                                               | <a href="https://google.com"></a>|
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/Course-Advanced%20Cybersecurity%20Threats%20and%20Governance-blue"/>https://olympus.mygreatlearning.com/courses/34484/certificate
-</div>
+
+[![Course: Advanced Cybersecurity Threats and Governance](https://img.shields.io/badge/Course-Advanced%20Cybersecurity%20Threats%20and%20Governance-blue)](https://olympus.mygreatlearning.com/courses/34484/certificate)
+
 
 ## Projects
+
+
+
+
 
 
